@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Privacy Policy - CALLSCADULE</title>
+    <title>Privacy Policy - AUTO CALL PLUS </title>
     <style>
         body {
             font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -54,12 +54,12 @@
     </style>
 </head>
 <body>
-    <h1>Privacy Policy for CALLSCADULE</h1>
+    <h1>Privacy Policy for AUTO CALL PLUS</h1>
     <p class="last-updated">Last Updated: July 6, 2025</p>
 
     <div class="section">
         <p>
-            Welcome to CALLSCADULE! This Privacy Policy is designed to help you understand how we collect, use, disclose, and safeguard your personal information when you use our mobile application.
+            Welcome to AUTO CALL PLUS! This Privacy Policy is designed to help you understand how we collect, use, disclose, and safeguard your personal information when you use our mobile application.
         </p>
         <p>
             By downloading, installing, or using CALLSCADULE, you agree to the terms outlined in this Privacy Policy. If you do not agree with our policies and practices, please do not use our application.
@@ -194,8 +194,8 @@
             If you have any questions or concerns about this Privacy Policy or our data practices, please contact us at:
         </p>
         <p>
-            Email: [Your Email Address]<br>
-            Address: [Your Physical Address]
+            Email: [rathoremukul7@gmail.com]<br>
+            Address: [INDIA]
         </p>
     </div>
 
